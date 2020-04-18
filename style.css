@@ -1,0 +1,21 @@
+.buy-now-button{
+    background-image: linear-gradient(45deg,red,pink);
+    
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 30px;
+}
+.text-center{
+    text-align: center;
+}
+.half-width{
+    float: left;
+}
+.half-width img{
+    width: 50%;
+}
